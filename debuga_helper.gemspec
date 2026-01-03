@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "rails", ">= 5.0"
-  spec.add_dependency "colorize", "~> 0.8"
+  spec.add_dependency "colorize", ">= 0.8"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/EhtuCom/debuga_helper"
