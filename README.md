@@ -24,7 +24,7 @@ Prints a debug message with caller information.
 
 - `msg`: The message to print.
 - `title`: Optional title.
-- `level`: Logging level ('debug', 'warning', 'notice', 'all').
+- `level`: Option logging level ('debug', 'warning', 'notice', 'all').
 
 ### debuga_shinny(title = nil, level = 'debug')
 
